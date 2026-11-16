@@ -1,11 +1,58 @@
-# Sample Snack app
+# MYAPP_V2
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+## 1. Link ứng dụng Expo
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+**Tên bài nộp:** MyApp_V2
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+**Link ứng dụng:** [MyApp_V2 – Expo Snack](https://snack.expo.dev/@voduyanh/myapp_v2?platform=web)
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## 2. Các dòng code và hình ảnh giao diện các component
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+### 2.1. App.js
+**Mã nguồn:** [App.js](App.js)
+
+**Hình ảnh giao diện:**
+
+![MyApp_V2](image/MyApp_V2.png)
+
+### 2.2. Header
+**Mã nguồn:** [Header.js](components/Header.js)
+
+**Hình ảnh giao diện:**
+
+![Header](image/Header.png)
+
+### 2.3. SongList
+**Mã nguồn:** [SongList.js](components/SongList.js)
+
+**Hình ảnh giao diện:**
+
+![SongList](image/SongList.png)
+
+### 2.4. SongItem
+**Mã nguồn:** [SongItem.js](components/SongItem.js)
+
+**Hình ảnh giao diện:**
+
+![SongItem](image/SongList.png)
+
+### 2.5. ArtistList
+**Mã nguồn:** [ArtistList.js](components/ArtistList.js)
+
+**Hình ảnh giao diện:**
+
+![ArtistList](image/ArtistList.png)
+
+### 2.6. AddSong
+**Mã nguồn:** [AddSong.js](components/AddSong.js)
+
+**Hình ảnh giao diện:**
+
+![AddSong](image/AddSong.png)
+
+### 2.7. TabBar
+**Mã nguồn:** [TabBar.js](components/TabBar.js)
+
+**Hình ảnh giao diện:**
+
+![TabBar](image/TabBar.png)
